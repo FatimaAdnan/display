@@ -1,0 +1,15 @@
+.body li{
+    display: inline;
+    border: 1px solid red;
+}
+.body .text{
+    visibility:hidden;
+}
+
+.body{
+border: 1px solid pink;
+}
+#border{
+    border: 5px solid transparent;
+    border-image: url(download.png)30 stretch;
+}
